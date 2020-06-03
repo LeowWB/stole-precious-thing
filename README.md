@@ -1,10 +1,26 @@
 # Comparison of translation services
 
-done in python 3.8.
+## Introduction
 
-dependencies:
+Long story short, my task is to compare different translation services' quality of translation
+between English, Mandarin, Malay, and Tamil. The domain will be job descriptions on a particular
+Singaporean careers site.
+
+## Dependencies
+
+* python 3.8
 * spacy
 * requests
 
-At the start before doing anything please run this
-python -m spacy download en_core_web_lg
+Also this spacy model, which can be installed by:
+`python -m spacy download en_core_web_lg`
+
+## API
+
+We will interface with all the translation services through rapidapi. This offers us convenience
+and (hopefully) low prices.
+
+You're gonna need a json file, `keys.json`, in the repo's main directory. It should be a plain-old-
+javascript-object, with the keys being the names of the various translation services (i.e. the
+names of the python wrapper files). The values will be your own API key values - I'm
+obviously not committing mine to this repo for the world to see.
