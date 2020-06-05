@@ -6,6 +6,9 @@ Long story short, my task is to compare different translation services' quality 
 between English, Mandarin, Malay, and Tamil. The domain will be job descriptions on a particular
 Singaporean careers site.
 
+The code here just represents an investigative probe. It's not meant to be used as an application
+or a service. Don't use it as an application or a service.
+
 ## Dependencies
 
 * python 3.8
@@ -15,7 +18,7 @@ Singaporean careers site.
 Also this spacy model, which can be installed by:
 `python -m spacy download en_core_web_lg`
 
-## API
+## APIs
 
 We will interface with all the translation services through rapidapi. This offers us convenience
 and (hopefully) low prices.
