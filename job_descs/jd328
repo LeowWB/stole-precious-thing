@@ -1,29 +1,26 @@
-Job description
+Duties and Responsibilities
 
-  Plan and executes sales targets and activities in Singapore for the portfolio of medical device products with potential customers and to achieve defined commercial targets.
-  Responsible for management of assigned accounts.
-  Responsible for the delivery of revenue targets of assign accounts.
-  Responsible to handle Tender/ Procurement.
-  Work along with project managers to manage customer’s expectation.
-  Coordinate with Customer Service support and keep abreast with service support issues, status along with maintaining customer satisfaction.
-  Ensure there is no overdue account receivable.
-  Ensure effective, quality and accurate opportunity pipeline.
-  You will coordinate, report and feedback the market situation.
-  Maintain up-to-date customer/ market intelligence and capture win/ loss data.
-  Responsible for accurate forecast in monthly, quarterly and annual basis.
-  Develop and execute strategy for assigned product lines and accounts.
+  Familiarize with Ensign’s business domain and objectives to implement cyber security analytics solutions that meet internal business requirements and the needs of industry partners and customers
+  Develop, evaluate, tune, deploy, maintain and document production-grade data analytics models that provide cyber security insights.
+  Work on large volume of raw, structured and unstructured data from internet traffic, logs and other forms of data sources using Apache Spark, MPP DB, NoSQL, Hadoop, Scala, Python, R, Tableau etc on daily basis.
+  Evaluate potential solutions relating to data analytics and make recommendations to solve business problems
+  Liaise and work with in-house developers, data engineers, big data architects, visualization engineers and project managers to better understand the requirements of developing, deploying and productizing models
+  Ensure the analytics models are running in optimal condition and perform trouble-shooting when the models are having issue
+  Advocate and ensure security best practices
 
 Requirements
 
-  At least 3 years of sales experience preferably in Healthcare products and solutions in Singapore
-  Experience in managing customer accounts preferably in Healthcare industry. Understanding of medical device market with sales knowledge of Singapore Healthcare market.
-  Expert in exposure to customers and account management best practices
-  Good in creating strategic business plan, communication and presentation skills
-  Build sound working relationships internally and with Customers to ensure success in this role
-  Possess excellent communication, influencing and relationship building skills
-  Candidate must possess at least Bachelor's Degree/Post Graduate Diploma/Professional Degree in any field.
+  Degree in Statistics, Data Science, Mathematics, Computer Science, Engineering or any other related quantitative field
+  Experience in applying data science techniques in an industry context, preferably in the analysis of security logs/network data
+  Knowledge in probability and statistical modelling, inclusive of machine learning, experimental design, evaluation and optimization
+  Proficiency in Scala, Python, R, Java, Spark and SQL, among others
+  Ability to perform rapid prototyping and proof of concept using visualization and dashboarding tools such as Tableau
+  Experience with machine learning/deep learning frameworks and tools such as TensorFlow, Keras, Caffe, MxNet, Spark, Hadoop, R, pandas
+  Excellent communication skills and organizational skills including attention to details and multi-tasking
+  Team-player, result-oriented, proactive, self-driven
+  Creative problem-solving skills, highly organized, with ability to handle multiple simultaneous tasks, prioritize and meet tight deadlines
 
-Required Skill(s)
+Preferred Skills /Qualities
 
-  Medical, corporate sales, marketing, allied health
-  Preferably Senior Executive specialized in Sales - Corporate or equivalent.
+  Experience in Cyber Security / Telco industry will be an advantage
+  Hands-on experience in conceptualizing, designing, implementing and deploying statistical or machine learning models in the big data environment (e.g. Hadoop)

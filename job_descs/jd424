@@ -1,16 +1,52 @@
-Job Description &amp; Requirements
-• Received and check goods delivered by ensuring delivered goods are in good condition and according to purchase document. Verify against receipt document
-• Distribute pharmaceutical items to various sections, wards, specialist clinic etc and ensure proper documentation of all stock movements
-• Check and monitor inventory level and inform supervisor of items that have discrepancies in quantity, and initiate re-order of items that have reached re-order levels
-• Top-up stocks on first-expiry-first-out basis. Perform regular checks to ensure stocks are in good condition and there are no expired or deteriorated stocks. Record and dispose expired and deteriorated drugs after authorisation
-• Ensure proper procedures for return of goods from clinics and to vendors
-• Train and supervise the health attendants in the repackaging process.
-• Ensure all stocks are kept under appropriate storage conditions and make sure storage areas are kept clean, neat and tidy at all times
-• Maintain a high and accurate standard in the pre-packing of tablets / capsules and lotions according to procedures laid down
-• Update all stocks supplied and receipt in documents and SAP (if applicable)
-• Assist in cycle count and stock-take
- Required:
- 
-• Secondary Education
-• Computer Literate (preferred)
-• Good team player, self-motivated and service orientated
+Budget: Up to S$9,000
+Contract: 1 Year (Review in December 2020)
+Location: Changi Business Park
+
+Successful candidate will be assigned to a banking client - Technology &amp; Operation - Core Banking
+
+Responsibilities
+
+  Conceptualize and develop Blueprint for Machine Learning models using python, allied libraries and other tools
+  Predictive modelling using Machine Learning
+  Develop, train, test, deploy and finetune Machine learning models in CORE Banking Production environment
+  Usage of python libraries
+  Conceptualization, design, development, testing, implementation and maintenance of Machine Learning based models with Python and allied libraries – pandas, matplotlib, XGBoost and other modelling tools
+  Automation of manual tasks
+  Understanding data patterns using tools and coming up with optimum solutions that are predictive and provides insights
+  Develop auto-healing solutions in production environment
+  Working with various other teams to conceptualize machine learning models
+  Data analysis to find patterns
+  Document all Use cases and steps
+  Good knowledge of Python development practices and ability to write clear and concise documentation (such as requirements, design and testing procedures)
+  Must have strong writing and verbal communication skills and must be able to work in an agile development environment
+  Demonstrate ownership and responsibility in all assignments
+  Proven ability to communicate and mentor junior developers
+  Proven experience of translating manual activities into an automated deployment.
+
+
+Requirements
+
+  An undergraduate degree or higher
+  3+ years working with Python in a professional production environment,
+  Expert level experience in conceptualization, design, development, testing, implementation and maintenance of Machine Learning based models with Python and allied libraries – pandas, matplotlib, XGBoost and other modelling tools
+  Predictive modelling - Proven ability to have implemented and conceptualized at least 2 predictive models in production environment
+  Good knowledge of Python development practices and ability to write clear and concise documentation (such as requirements, design and testing procedures)
+  Knowledge of mathematical and statistical concepts for Machine learning
+  Engineering experience working on production systems automation in Banking systems - architecture design, development, integration, customization &amp; implementation.
+  Proven experience of automation of manual activities
+  Software version control tools (CVS/Subversion/Git)
+  Data handling tools
+  Strong team player, effective at communicating internationally and used to working closely with remote teams
+  Present facts and recommendations effectively in oral and written form
+  Pro-active, independent, resourceful and able to work in a team
+  High attention to detail with focus on understanding the issues with finding solutions
+
+
+Good to have –
+
+  Strong technical skills, e.g. scripting or programming experience- Java
+  Capacity monitoring &amp; Observability
+  Production automation experience in a CORE Banking environment
+  Experience using and optimizing monitoring and trending systems (Prometheus, Grafana), log aggregation systems (ELK, Splunk) and their agents
+  Experience gained in the SRE team, a good understanding of SRE concepts and principles regarding performance, reliability, monitoring, alerting.
+

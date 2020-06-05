@@ -1,11 +1,36 @@
+Join Affinity and be part of the future of identity: secure, portable and controlled by the individual.
 
-  Support new&nbsp;Factory Automation Equipments and Conveyors assembly, installation, testing and commissionning;
-  Provide technical services and support for&nbsp;maintenance and repair works;
-  Modification of machinery or equipments;
-  Troubleshoot&nbsp;equipment electrical faults;
-  Improvement of machinery yields and productivity;
-  Spare parts control.
-  GCE O-level and above
-  Minimum 2 years relevant working experiences
-  Have knowldege in electrical circuit diagram, PLC and troubleshooting of machinery
-  Experiences in repairing and troubleshooting production machinery or relevant
+Affinity empowers individuals and organisations with ownership and control of their verifiable data, to unlock value across borders and platforms.
+Leveraging on the building blocks that Affinity provides, trusted institutions and entities can issue verifiable credentials to users, which can in turn be shared with other applications to access services in an open and interoperable ecosystem.
+
+Currently undergoing development are two applications that leverage Affinity’s technology – Trident, a curated B2B marketplace and trade platform connecting verifiable, international partners for seamless cross-border trade; and Good Worker, an online job matching platform for seasonal workers and employers in India.
+
+Affinity, along with the applications Trident and Good Worker, are seeded by Temasek, a global investment company headquartered in Singapore.
+We are building a motivated and entrepreneurial team who is passionate about identity, decentralization and technology to make this happen.
+
+This role at Affinity provides a unique opportunity for a high performing individual to have broad impact. You will work closely with a talented and diverse group of engineers, product managers and industry experts.
+
+Key Responsibilities
+
+  Review and determine value of unstructured data from various data sources
+  Extract structured data sets applying industry (ontology) schemas to large unstructured aggregated data sets
+  Creating systems that ingest data from various sources
+  Design, architecture and implement data pipelines using cloud-native infrastructure and services to solve from MVP to scale
+  Ownership of end-to-end data pipelines and automate data quality reporting process.
+  Designing data models to support data transformations, analytics, reporting and data science models (Preferred)
+  Workflow flexibility and strong teamwork skills
+  Collaboration with SME/Software engineers and Data Science experts
+  Experience with distributed systems and cloud architecture
+  Write efficient, well documented and highly readable code
+
+Ideal Candidate Requirements
+
+  2+ years of experience in Big Data Engineering using tools like Spark, Hadoop, Hive, etc.
+  3+ years of experience with Software Engineering using Python / development using modern Relational and NoSQL databases like MySQL, PostgreSQL, and MongoDB
+  Some experience with stream processing systems : Storm, Spark Streaming, etc.
+  Some Data Modelling and Data Science experience building predictive models
+  Experience with Unix and statistical software packages (R, SAS) for data manipulation
+  Confidence with analytical tools such as R or Matlab
+  Experience with data-science tools / workbench like Dataiku, Jupyter, Rapid Miner, etc. is a plus
+  Experience with Docker and Linux shell is a plus
+  Preferred experience designing data models

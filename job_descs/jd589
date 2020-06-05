@@ -1,32 +1,33 @@
-Product Manager for the International Private Bank with the responsibility of building out a new digital notification engine in APAC and overseeing some of the digital self-service initiatives to drive client experience and operational efficiency.
-Internal Description
-The Digital Wealth Management (DWM) organization aims to create a fully-integrated digital experience for clients across the wealth continuum. We partners closely with Global Wealth Management (GWM) and Chase Wealth Management (CWM) in US to attract, develop, and retain clients with the firm.
-Position Overview:
-International Private Bank Digital Wealth Management is seeking a Product Manager to build a new digital notification engine to drive effective client engagement. In addition, s/he will also oversee some of the digital self-service initiatives to drive client experience and operational efficiency. The candidate will work with a global team strategizing and implementing the solution across EMEA, ASIA and LATAM.
-The product will be used by international private bank clients and hence understanding the needs of our clients is an instrumental aspect of the role. Other major aspects of the role will be to identify and understand the needs of our other stakeholders, generate product requirements, and execute through partnership with global &amp; multi-functional teams – design, technology, project execution, client advisor, marketing, client service specialist, legal, risk.
-The ideal candidate should demonstrate extensive knowledge of digital product management. In addition, Candidate is expected to have exemplary ownership, outstanding problem-solving skills, a strong partnership mindset, and underlying passion for digital
-Responsibilities:
+What we do
+Coda Payments (https://www.codapay.com/) helps Google, Tencent, and other leading digital content providers monetise their products in places where credit and debit cards aren’t widely used. We establish partnerships with a wide range of alternative payment channel operators who make it possible for customers to pay in other ways: paying cash at retail, using a mobile wallet, making a bank transfer, or redeeming a prepaid card.
+Coda also allows publishers to accept payments through these various methods on their own website or at our gaming e-commerce site - codashop.com.
 
-  International Private Bank Digital notification, client service &amp; engagement product manager
-  Design product strategy and roadmap; communicate it with wider organization
-  Define MVP, product phases and drive to market, leading through a customer centric approach and innovation
-  Provide clear vision and scope documentation, use cases, workflows, wire-frames, product requirements, and other materials as needed to facilitate UX design and development
-  Partner closely with global stakeholders to execute roadmap and drive product initiatives, while meeting critical deadlines and budget constraints
-  Manage and prioritize feature backlog, with a mind towards benefits and tradeoffs
-  Integrate customer feedback, data analytics, product metrics, user experience research, market analysis, and company goals to drive prioritization of product initiatives
-  Set and manage expectations through effective written and oral communication
-  Drive planning, execution and go to market strategies for new releases
-  Build and present end-to-end executive product updates inclusive of production metrics, new feature delivery planning and financial forecasting
-  Support private bank digital strategy
+What it is like to be in our team
+Life at Coda is fast-paced: our instinct is to bite off a bit more than we can chew, so we’re always busy. As a rapidly growing startup, we’re always ready to keep up and adapt to changes quickly; when we go fast, we have shorter time to react.
+We’re always impatient and we don’t wait for things to happen; we hustle to make them happen. If you’re someone who is tired of waiting for your ideas to be heard; someone who is hungry to contribute more; someone who derives more satisfaction from team wins rather than from individuals ones; and someone who values integrity rather than cutting corners - you will fit perfectly into the Coda team!
 
-Qualifications:
+Responsibilities
+This position is responsible for the deployment and maintenance of a cloud-based payment gateway and ecommerce site. Responsible for deploying, automating, maintaining, troubleshooting and improving the systems that keep the backend infrastructure running smoothly. The role requires you to have hands-on technical experience and a can-do approach towards environment automation / management and continuous improvement.
 
-  Must have demonstrated exemplary ownership and hold yourself to high standard
-  Must be a strong problem solver and effective communicator with a partnership mindset and underlying passion for digital
-  Previous product management or related experience required, with proven track record of delivery
-  Ability to define and execute product roadmap and business models
-  Ability to prioritize projects and efforts considering many variables including business and client needs, competitive and industry trends, resource and funding availability, and internal trade-offs
-  Ability to partner with cross-functional teams at all levels for effective execution in an agile manner
-  Ability to manage tight delivery timelines and execute under pressure
-  Strong commitment to professional responsibilities, a degree of self-motivation suitable for a “start-up” team, and superior work ethic with adaptability to push beyond standard hours during busy periods to meet tight deadlines
-  Advanced degree &amp; technical background preferred
+  Deploying, automating, maintaining and managing AWS cloud based production system,
+to ensure the availability, performance, scalability and security of productions systems.
+  Build, release and configuration management of production systems
+  System troubleshooting and problem solving across platform and application domains.
+  Suggesting architecture improvements, recommending process improvements.
+
+Requirements
+
+  AWS: 2+ years’ experience with using a broad range of AWS technologies (e.g. EC2,
+RDS, ELB, EBD, S3, VPC, Glacier, IAM, CloudWatch, KMS) to develop and maintain an
+Amazon AWS based cloud solution, with an emphasis on best practice cloud security.
+  DevOps: Solid experience as a DevOps Engineer in a 24x7 uptime Amazon AWS
+environment, including automation experience with configuration management tools.
+  Scripting Skills: Strong scripting (e.g. Python) and automation skills.
+  Operating Systems: Windows and Linux system administration.
+  Monitoring Tools: Experience with system monitoring tools (e.g. Nagios).
+  Problem Solving: Ability to analyze and resolve complex infrastructure resource and
+application deployment issues.
+
+If you're looking for a rapid-growth environment and great teams to work with, you should apply now.
+We're sorry to inform that only the shortlisted candidates will be notified as we may be overwhelmed by the number of applicants that go into our system, hence if you do not get a reply from us - don't give up on us just yet!
+We encourage you to also check out our career site at https://codapayments.bamboohr.com/jobs/ - we may have other suitable openings for you.

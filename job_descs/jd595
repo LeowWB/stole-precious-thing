@@ -1,24 +1,26 @@
-This is a senior C++ developer role for the ETS platform team based in Singapore
+Work on hands-on experiment for the few of the following tasks:
 
-Team is involved in a wide range of activities from Warrants and Listed Options market making, Delta 1 trading strategies to Execution and Inventory optimization solutions.
+  Fabrication of MEMS/NEMS resonators, switches and self-powered sensors such as accelerometers, vibration, shocks, acoustic, air flow, temperature, etc.
+  Fabrication of PZT and/or AlN based piezoelectric MEMS and sensors.
+  Fabrication of Si MEMS and/or CMOS MEMS.
+  Fabrication of wafer level packaging technology such as wafer bonding, chip bonding, thin film encapsulation.
+  Fabrication of TSV.
+  Design and Simulation of MEMS and NEMS devices and structures using COMSOL, ANSYS and other well-known software.
+  Integration of the above-mentioned sensors and devices into a self-powered sensor nodes.
+  Testing of the above sensors for event-based IoT and environment monitoring related applications.
+  Write 2 or more journal papers based on derived data of the above devices in a year for RF and write one or more journal papers for RA.
+  Write monthly progress report.
+  This work is joint-research with Cornell University. Working in an international multi-task team is expected.
+  Write new research grant proposals according guidance from Principal Investigator (PI).
 
-Role will involve working closely with the trading desks and developing software solutions to improve and expand the technology platform being used. This person will be involved in the development projects across all markets in Asia where ETS systems are used. Work will include improving trading performance in existing markets (by algorithm optimization and/or performance tuning) as well as delivery to multiple new markets across the region.
+Requirements:
 
-It is critical that the candidate has in-depth understanding of real-time exchange trading systems and hands-on development experience in C++ with at least one of the following areas:
-
-1) Market making technology for Asia equity derivatives markets
-2) Crossing / matching engine technology
-3) Market Data / Exchange Connectivity
-
-Role Responsibility:
-• Develop, test, design, manage and support high quality systems
-• Build strong relationships with business users
-• Maintain a strong focus on quality
-• Be willing and able to adapt to changes in priorities and requirements
-
-Essential Skills:
-• Experience developing latency sensitive software
-• Proficient in C++ and development in Linux environment
-• Excellent problem solving and analytical skills in a high-pressure environment
-• Knowledge of application architecture and design
-• Derivatives product knowledge will be a plus
+  Possess a PhD preferably from prestigious institution.
+  Have learned MEMS or Sensors related courses for one semester at post-graduate level and earned score of A- or better (for RF).
+  Must have 3 years’ and more relevant experience in making and testing MEMS/NEMS.
+  Strong background in hands-on microfabrication techniques and with journal publications (e.g. Nature Comm, JMEMS and Nano Lett, etc) showing such evidences.
+  This opening is for research-intensive tasks. Applicants with 3 years relevant research or industry experience in making and testing MEMS/NEMS is required for RF position.
+  Strong knowledge in L-Edit; COMSOL; ANSYS.
+  Strong written and spoken communications.
+  Having more than four 1st-authored international peer-reviewed journal papers (for RF).
+  Open to fixed-term contract.

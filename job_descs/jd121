@@ -1,31 +1,23 @@
-Responsibilities
-- Day 1 server and storage Hardware design and deployment, implementation, starting from Racking, cabling, start-up, OS installation, patching. This applies for any server brand and - Perform daily monitoring, maintenance, and troubleshooting of backup jobs on platforms (MS Active Directory, Exchange, Oracle, SQL Server, Windows, VMware, and UNIX servers).
-- Manage and support Storage systems, including vulnerability remediation, capacity management, configuration management, provisioning and zoning of new servers using SAN switches.
-- Analyse backup software performance accordingly to meet client needs and monitoring of scheduled backups to ensure success or take remedial action for failures
-- Provide backup system data statistics to management.
-- Perform regular DR (Disaster Recovery) test plan of backup data restoration and storage replication availability.
-- Monitor usage and performance of storage and perform capacity planning for storage growth to management.
-- Manage storage and backup changes through change request process &amp; provide status reports to the relevant parties.
-- Respond promptly to incident, investigate &amp; provide temporary &amp;/or permanent resolution of incidents escalated. Provide timely status updates to relevant parties.
-- Monitor the agreed service level, document &amp; maintain the configuration of the systems; provide regular reporting to relevant parties.
-- Ensure service levels meet requirements. Propose and implement action plan when required.
-- Expected to work during off-peak hours on system activities (e.g. patching, upgrade)
-- Identify, research, and resolve technical problems
-- Be able to effectively operate within set guidelines, policies and procedures, and able to execute instructions with minimal supervision
-- 24x7 Operations Support
+Job Descriptions:
 
 
-Requirements
-- Experienced project implementation
-- Must Have Knowledge on Below Technologies:
-a) EMC Networker
-b) EMC Data Domain
-c) VEEAM
+  Assist with the planning, budget coordination, oversee and documentation for the projects
+  To perform site survey, drawing and work schedule
+  Liaise with mutliple stakeholders to resolve site issues and project coordination
+  To coordinate and schedule with the Building Management
+  Assists project managers in project implementation
+  Supervise the site progress including attend meeting and discussion
+  Execute Business Continuity Planning (BCP) to service outage of fibre service
+  Installation/Diversion/Upgrading of pipeline and cable (copper &amp; optic fibre) networks
+  Ay other ad-hoc duties as assigned
 
-Good To have knowledge on below:
-a) Veritas NetBackup
-b) EMC ISILON
-c) EMC VMAX
-d) EMC POWERMAX
+Job Requirements:
 
-License: 12C6060
+
+  Candidate must pposses at least Professional Certificate/NiTEC, Diploma/ Advanced/ Higher/ Graduate Diploma (specializing in Civil/Engineering/ Construction/ Telecommunication would be advantage)
+  Experience in Telecommunication works is preferable
+  Ability to work under pressure during emergency circuit fault/restoration
+  Able to occasional work out of office-hours and rotating standby duty
+  Possess class 3 driving license (own transport an advantage)
+  Literate in Microsoft office (Power Point, Excel &amp; Word)
+

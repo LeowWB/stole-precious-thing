@@ -1,26 +1,44 @@
+ETH Zurich is one of the leading universities of the world with a strong focus on science and engineering. In 2010 it established the Singapore-ETH Centre (SEC) in collaboration with the National Research Foundation (NRF) to do interdisciplinary research on pressing problems.
+The Singapore-ETH Centre provides a multicultural and interdisciplinary environment to researchers working on diverse themes focussed on sustainable and liveable cities, resilient urban systems, and patient-centric healthcare. The centre is home to a community of over 100 doctoral, postdoctoral and professorial researchers working in three main programmes: Future Cities Laboratory, Future Resilient Systems, and Future Health Technologies.
+In collaboration with the National University of Singapore (NUS), the Nanyang Technological University (NTU), Duke - NUS, the National Health Group (NHG), National University Health System (NUHS), and SingHealth, SEC is undertaking a research program on "Future Health Technologies FHT". It addresses some immanent health challenges by developing a future-oriented Mobile Digital Health Concept that tackles the increase in patients suffering from chronic diseases such as diabetes, obesity and stroke, as a consequence of a rapidly ageing population with mobile digital technologies, covering the value chain from acute care to patient's private homes. Within this framework we are announcing the following job opening.
 
-  To Technically lead SAP ABAP team for NSC Domain and to take overall deliverables from Project and AMS Operations for NSC Domain.&nbsp;
-  Technically responsible for all solutions and to ensure managing offshore resources to deliver all technical stuffs.&nbsp;
-  Act as the technical SAP ABAP expert, ensuring quick turnaround in identifying application issues and providing timely solutions.&nbsp;
-  Develop detailed plans and accurate estimates for completion of build, system testing and implementation phases of project.&nbsp;
-  Transform business function requirements into technical program specs to code, test and debug programs.
-  Develop, code, document and execute unit tests, systems, integration and acceptance tests and testing tools for functions of high complexity.
-  Perform performance tuning to improve performance over multiple functions
-  Engage other technical team members in the design, delivery, and deployment of solutions.
-  Ensure integration system activities including monitoring the technical architecture (particularly scalability, availability and archiving) meet all SLA's.
-  Manage operational support, performing work during change windows as well as providing on call support as required by the team.
-  Undertake performance tuning activities for SAP integration activities
+Project background
+Diabetes prevalence is a rising global phenomenon with some 400 million cases worldwide with 90% of these for type-2 diabetes (T2D). Lifestyle factors such as exercise and diet contribute to the development of T2D. Behavioural interventions are known as effective in both preventing the onset of diabetes, and preventing serious complications arising for T2D patients. However, current interventions are limited in their scalability and do not provide a personalized lifestyle coaching in the everyday life of vulnerable individuals. 
+The Mobile Health Interventions module of the FHT program investigates therefore how mobile chatbot technology can be leveraged to assist vulnerable individuals in preventing T2D and treating patients with T2D. Accordingly, chatbots can act as scalable lifestyle coaches that guide vulnerable individuals through a personalized digital health intervention that is grounded in behavioural medicine and health psychology theories.
 
-Skills Required
+Job description
+As a research assistant in Digital Lifestyle Coaching, you will conduct a series of digital health intervention studies, applying different methodologies (e.g., quantitative and qualitative), to help identify the best smartphone-based and chatbot-delivered intervention components that aim to prevent T2D in vulnerable individuals and support patients in managing their T2D. 
+You will closely collaborate with our research partners from the Saw Swee Hock School of Public Health (SSHSPH) and the Physical Activity and Nutrition Determinants (PANDA) research program at the National University of Singapore (NUS), and the National University Health System (NUHS), while working with both vulnerable individuals in a public health context and T2D diabetes patients in a clinical context, to develop an effective digital lifestyle coaching.
+Together with a team of a supervising postdoctoral researcher and doctoral students / research staff (with a background in health psychology, public health, behavioural medicine and technology management), study nurses and software engineers, you will develop a conceptual intervention model and conduct a pilot study in Year 1. 
+Moreover, you will conduct optimization trials in Year 2, and a pilot randomized controlled trial in the last two years. All trials must consider key findings from implementation science so that the resulting digital coaching can be easily adopted by the Singaporean healthcare system (e.g., Health Promotion Board, National Parks Board, hospitals and poly clinics, health insurer, digital health start-ups) and other (business) organizations (e.g. universities).
+You will also undertake promotional activities to increase community awareness of the coaching service through conferences, workshops, seminars and social media engagement, while also undertaking evaluations and preparing study protocols and written publications for high quality, peer-reviewed journals. 
+You will also present results at local and national scientific meetings and prepare grant applications for research funding.
+This is a unique opportunity to build your research profile supporting a high-quality, government-funded project. 
+Amongst the many benefits associated with working at SEC and pursuing your doctoral studies, you will also receive formal and informal professional development and mentoring. 
+You will also supervise Master and Bachelor students while making a real-world impact on vulnerable individuals and patients with T2D in Singapore.
+The preferred start date is July 1st, 2020. 
+Candidates will be screened on a continuous basis until the position has been filled.
+Please note that the employment will be at the Singapore-
+ETH Centre and local working regulations will apply. Workplace is Singapore.
 
-  Demonstrate knowledge of ABAP development
-  Planning, design, development, testing and release of custom objects
-  Develop technical architecture, strategy and guidelines documents
-  Provide Development Effort Estimates
-  Technical Specification and Unit Testing Document
-  Handle complex developments
-  Proficient in ABAP, including Reporting, Interface, Conversion, Enhancement &amp; Forms (RICEF)
-  Have good technical business process of SAP SD, MM, PP &amp; FI/CO modules
-  Experience in SAP workflow is added advantage&nbsp;
-  Experience in Web-service is added advantage
-  Experience using OData and Fiori programming is added advantage along with S4 HANA Migration experience
+Key Selection Criteria
+
+  Successful candidates have a strong track record in digital health interventions, preferably in the fields of behavioral lifestyle medicine (e.g., exercise and diet), T2D, and conversational agents.
+  Candidates are also required to have a Master’s degree,
+  Experience in public health interventions, clinical trials, computer science, technology management
+  Familiar with the ethical, legal and health-political challenges of medical research.
+  Excellent communication skills in English, positive experiences with interdisciplinary collaborations, a sense for pursuing overreaching goals
+  Capacity to establish a wide local, national and international network with researchers, clinicians, digital health entrepreneurs, and the Singaporean healthcare system.
+
+The Singapore-ETH Centre is an equal opportunity and family-friendly employer. All candidates will be evaluated on their merits and qualifications.
+Duration: Fulltime , Temporary/Contract
+Method of Application
+We look forward to receiving your online application including the following documents:
+
+  Cover letter outlining your motivation and experience in the fields of digital health interventions, behavioral lifestyle medicine, T2D, conversational agents and in project management
+  CV
+  List of publications (including qualifying theses and / or "under   review" and "work-in-progress" manuscripts)
+  Certificates (e.g. Master's and Bachelor's degree)
+  Transcript of records
+
+Please note that we exclusively accept applications submitted through our online application portal. Apply via: https://www.jobs.ethz.ch/job/view/JOPG_ethz_wqFTdEWvNslawq4uFq

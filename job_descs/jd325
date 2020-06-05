@@ -1,29 +1,38 @@
-Traineeship Description:
-This position reports to the Application Engineering director and interfaces with other engineering staff to support development and deployment of solutions. Traineeship includes engineering projects, tasks which will require critical thinking and relevant technical skills. The position will allow immense technical learning and gain critical soft skills such as communication, effective planning and collaboration.
+The Job
 
-Specific Responsibilities:
+  Will develop robust processes to ingest huge amounts of data from disparate systems, and build processes that transform and use that data. 
+  The core technology used is Apache Spark on top of HDFS, and development is primarily in Java. 
+  The position is ideal for someone with a strong interest in data processing and data science: either a confirmed expert in Big Data technologies or a strong developer keen on gaining expertise in that domain.
 
-  Design and development of standard payload modules for the mobile robots&nbsp;
-  Integration and testing of sensors and other electromechanical systems&nbsp;
-  Assisting with deployment of robots at various sites&nbsp;
-  Assist product development team to evaluate system limitations&nbsp;
-  Electrical design and development of custom payload modules based on customer requirements
+The Talent
 
-Competencies:
+  At least 8 years of software development experience
+  At least 5 years experience working with Java
+  A strong understanding of recent Java language features, such as lambdas, streams, and futures
+  Good knowledge of algorithms and data structures, with strong fundamentals in complexity analysis
+  Strong ability to analyze code – understand execution flow &amp; debug even without access to a debugger
+  Experience with Maven, Git, writing and maintaining integration tests
+  Strong familiarity with Linux and bash
+  Good knowledge of SQL or an SQL-inspired dialect such as HQL
+  Expertise in Hadoop Big data clusters and tech: Spark, Kafka, HDFS, ORC, Hive, HBase, YARN, Parquet, Zookeeper
+  Familiar with Jenkins and Ansible
+  Jira or a similar issue-tracking system
+  The Spring framework and IoC, and particularly Sping Boot and Swagger for restful web services
 
-  Extensive hands-on learning on mobile robots and embedded systems development&nbsp;
-  Strong prototyping and troubleshooting skills for mobile robots&nbsp;
-  Hands-on experience with Robot Operating System (ROS)&nbsp;
-  Strong programming skills in C++/Python for firmware development&nbsp;
-  Understanding of multi-disciplinary project planning and management&nbsp;
-  Strong understanding of robotic automation processes in the logistics and manufacturing industry
+Nice to have
 
-Required Educational Qualification:
-Bachelor's Degree
+  Python and pyspark
+  Web development fundamentals (HTML, Javascript, jQuery, ReactJS, etc)
+  Docker/Kubernetes
+  Protobuf, gRPC, Kryo, Avro, Snappy
+  OLAP cubes: ActivePivot, Druid, Clickhouse
+  Understanding of and interest in finance &amp; financial markets, particularly interest rate derivatives in their many forms (Forwards, Futures, Swaps, Swaptions, etc), knowledge of the greeks (Delta, Gamma, Vega, Vanna, Volga, Cega, etc), risk management concepts (VaR, ES, etc), market data (discount and forecast curves, SABR volatility matrices, correlation and hybrid correlation cubes, etc).
 
-Eligibility Criteria for SGUnited Traineeships:
+Next Steps
 
-  Singapore Citizen or Permanent Resident; and
+  Interested applicants kindly forward the latest copy of your resume in MS Word format      (with details of your last drawn and expected salaries) to waicharng.chong@adecco.com
+  All shortlisted candidates will be notified!
 
-a.Graduated or graduating in calendar year 2019 or 2020 from ITEs, polytechnics, universities, or other educational institutions (e.g. private universities and overseas institutions); or
-b.Graduated earlier from above institutions and completed National Service in 2019 or 2020
+Chong Wai Charng (R1652634)
+Consultant – Staffing Division
+Email: waicharng.chong@adecco.com

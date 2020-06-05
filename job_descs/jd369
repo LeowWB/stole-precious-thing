@@ -1,57 +1,38 @@
-PURPOSE
+Are you a systems administrator, software developer, or IT support specialist who loves delighting customers and wants to deepen their experience with Amazon Web Services (AWS) technologies? If so, the Curriculum Engineering team at AWS Training &amp; Certification needs your help! The AWS Training &amp; Certification group creates world-class training that enables our customers to build complex, scalable solutions on top of AWS. The Curriculum Engineering team creates and maintains the software tools that enable the rapid development, revision, and deployment of curriculum materials and lab environments.
 
-This role is to be part of the test automation team for core and web applications for all major initiatives leading to the changes in system.
-
-KEY ACCOUNTAIBILITIES
+As demand for AWS training continues to grow, our worldwide customer base needs engineers who stand ready to investigate and resolve complex technical issues with student lab environments at a moment's notice. As a Technical Curriculum Architect on the Curriculum Engineering team, you will be the escalation point for technical lab issues that the support team is unable to resolve. You will support our organization's internal tools for curriculum publication and lab hosting (all built on top of AWS), and will also have a chance to contribute to the development and technical direction of our training architecture as it evolves to meet customer need. You will solve the most challenging technical problems faced by a curriculum development organization.
 
 
-  Create/Assist/Troubleshoot the development of Test Automation Framework, Standards, Procedures, Processes, and Best practices as related to Test Automation
-  Manage the Daily/Weekly activities of the Test Automation.
-  Provide technical guidance and expertise to other team members, colleagues and other QA team members
-  Contribute to project review meetings.
-  Support Quality Assurance Management in Determining status, assessing problem areas, suggesting and reviewing corrective actions, Directing/planning necessary extra work, and rework and re-plan activities
-  Maintain and Guide Test Automation Suites Execution and undertake analysis of results to ensure that software meets or Exceeds specified standards and technical requirements
-  Work with project stakeholders to determine the appropriate quality initiatives to implement during System Development life cycles
-  Support Quality Assurance Lead in upward stakeholder management and day-to-day Management of the Automation Test team
-  Develop and maintain strong working relationships with other IT teams to expedite delivery of automation solutions
-  Work within quality assurance frameworks to ensure stability, efficiency and scalability
-  Take responsibility for integrity of testing and acceptance activities and coordinates the execution of these activities
-  Provide advice and guidance on any aspect of test planning and execution
-  Assist in the development of quality assurance and testing policies, standards and procedures, processes, and best practices as related to automation through a Community of Practice
-  Contribute to project review Support Quality Assurance Management in determining status, assessing problem areas, suggesting and reviewing corrective actions, directing/planning necessary extra work, and rework and re-plan activities
-  Support the onboarding of new team members
-  Work with project stakeholders to determine the appropriate quality initiatives to implement during system development life cycles
-  Provide feedback and suggestions to improve the application of basic principles and practices related to Software Development Process Improvement
-  Review requirements and specifications, and define test automated test solutions
+This position must be location in Singapore
 
 
+RESPONSIBILITIES
+· Assist customers and Technical Trainers with any and all technical issues related to running lab environments from our Instructor Led Training course catalog (15+ courses, 100+ labs) and our Self-Paced Lab catalog (100+ labs). You will develop and use your technical knowledge of the AWS platform to resolve customer issues with lab content, as well as to resolve issues with the underlying lab hosting platform itself.
+· Assist with the planning, resource allocation, and advance testing for large-scale events, such as AWS re:Invent and regional AWS Summits. You will use tools such as AWS CloudFormation to build out and execute tests to verify AWS capacity and lab environment stability in advance of the events.
+· Provide real-time support of lab environments. You will be responsible for pre-warming and launching anywhere from hundreds to thousands of student lab environments in advance of the start of an event, and will continue to monitor environment health and stability of both lab environments and the underlying AWS services they use as the day progresses.
+· Assist Curriculum Developers, Solutions Architects, and other Subject Matter Experts with the use of our curriculum publication tools.
+· Monitor and respond to issues with our suite of tools that support curriculum publication and deployment. You will use native AWS tools such as AWS CloudWatch to monitor the continued smooth operation of our Jenkins-based CI/CD system for curriculum publication. You will respond to issue tickets logged against this and other tools, and will create, test, and release fixes to production using tools such as Git, Jenkins, Python, and Windows PowerShell.
+· Assist in defining and prioritizing our backlog of outstanding feature requests for our internal tools to provide maximum value to multiple stakeholders throughout AWS.
+· Propose and implement new tools and technologies that simplify the publication, monitoring and maintenance of AWS training curriculum.
+· Some travel required (10-20%)
 
-QUALIFICATIONS / EXPERIENCE
+Basic qualifications
 
-  A bachelor’s degree in computer science, engineering or equivalent work experience
-  Master’s degree preferred
-  8-10+ years of relevant experience
+  5 years or more experience in IT as a Systems Administrator, Software Developer or Software Engineer
+  BS in Computer Science, Information Systems or related field, or 8+ years equivalent professional experience in the IT industry as Systems Admin, Software Developer or Software Engineer
+  5 years or more experience in providing technical support which adheres to a strict service level agreement (including triage and resolution)
+  5 years demonstrated knowledge of one or more modern programming languages (e.g., Java, C#, Python, Ruby, PowerShell)
+  5 years demonstrated knowledge with the concepts of Continuous Integration and Continuous Deployment
+  5 years or more experience in developing solutions that provide automation to enables teams to work more efficiently and effectively
 
+Preferred qualifications
 
-KNOWLEDGE, SKILLS &amp; ABILITY
+  Knowledge of foundational AWS technologies (Amazon EC2, Amazon S3, VPC, etc.)
+  5 years demonstrated knowledge of administration tasks for both Linux and Windows operating system
+  Knowledge of Agile software development methodologies and tools, particularly Scrum and Kanban
+  Meticulous attention to detail
+  Demonstrated customer obsession
+  Excellent communication skills (written and verbal)
+  A demonstrated ability to work cross-functionally with a diverse group of project stakeholders
 
-  Automation expert
-  Experience doing regression, manual functional testing or automation testing.
-  Good Understanding of SQL.
-  Automation of API tests.
-  Knowledge of test tools like Selenium, QTP, Load Runner, RFT(IBM), Mobile Testing tools, Python is a must
-  Expertise in Creating Test Automation Frameworks with Selenium/python
-  Experience developing API automated testing solutions using UFT, Selenium, JUnit, Soap UI, TestNG, and JMeter.
-  8-10+ Years of experience in Waterfall, Agile environment and DevOps.
-  Solid understanding of CI/CD Pipelines
-  Expertise in setting up Automation Suites in CI/CD Environment
-  Knowledge of Software Development Lifecycle including the functional and non-functional test phases
-  Knowledge of Quality Management techniques
-  Intermediate understanding of the customer services and business processes
-  Familiar with testing big enterprise, high-traffic and multi-tier applications
-  Flexibility to adjust to multiple demands, shifting priorities, ambiguity and rapid change
-  Ability to deal efficiently with escalations and difficult situations under pressure
-  Excellent attention to detail
-  Good interpersonal, communication and organizational skills
-  &nbsp;Experience managing teams of Automation Engineers strongly preferred
-
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer, and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status.

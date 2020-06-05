@@ -1,37 +1,43 @@
-Job Description
-Contribute to the success of the NonStop Systems Engineering team within Issuer Processing, with emphasis on the following responsibilities:
+Full Stack Developer – JD
 
-  Provide platform support &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(hardware, operating system and middleware) for Visa’s HPE NonStop &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Tandem) servers.
-  Respond to system alerts and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;error messages to ensure continuous system availability.
-  Coordinate scheduled and non-scheduled &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(emergency break/fix) hardware changes with vendor hardware engineers, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pursuant to Visa’s rigorous change management procedures.
-  Plan changes, configure, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monitor and troubleshoot the HPE NonStop Operating System and related &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;middleware subsystems in response to changing requirements.
-  Collaborate with multiple teams &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;– network, engineering, operations and applications – to ensure seamless &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;installations, deployments and system upgrades.
-  Participate in off-hours and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on-call support duties, which will periodically include overnight and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weekend work.
+Approvd.ai is a B2B SaaS solution helping business manage data protection, cybersecurity and AI use compliance approval processes for businesses and vendors, in a groundbreaking, faster, efficient and secure way.
 
-Qualifications
-Candidate must have:
+Key Responsibilities
 
-  10+ years of systems &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;engineering experience, specific to the HPE NonStop (Tandem) platform.
-  Demonstrated expertise &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;configuring Tandem subsystems, such as Spooler, Pathway, TCP/IP (including &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSL/SSH), TMF, KMSF, EMS, Safeguard, VLE, etc.
-  Strong communication skills, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(verbal and written), with emphasis on technical documentation and related &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;topics.
-  Current residency in Singapore, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or willingness and ability to relocate to Singapore upon placement. Telecommuting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is not an option for this position.
+- You will work to design, build, and support core systems powering Approvd.ai 's user experience for our B2B compliance workflow product MVP and beyond.
 
-Preferred candidate would have:
+- You will build efficient, scalable, and robust product features powering a secure, simple-to-use and fast user experience.
 
-  Demonstrated system programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;skills in one or more of these languages: TACL, C/C++, and/or TAL.
-  Experience with CLIM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;configuration, maintenance and troubleshooting, including both TCP/IP and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Storage variants.
-  Experience with configuring and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;using NonStop Open System Services (OSS), including shell scripting.
-  Working knowledge of NonStop &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL databases (both MX and MP)
-  Experience with NonStop X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;server hardware.
-  Experience with virtualized &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;storage, including XP-series storage arrays and SMF.
-  Working knowledge of one or &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more of these third-party software products:
- &nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; &nbsp;Integrated Research (IR) Prognosis.
- &nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; &nbsp;XYPRO Xygate Security Suite.
- &nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; &nbsp;Data Express
- &nbsp;&nbsp;&nbsp;&nbsp;&gt;&gt; &nbsp;Connect:Direct (NDM)
+- You will implement solutions to handle high levels of traffic, in a rapidly scaling environment.
 
-Desirable Certifications include:
+- You will write well-tested, clean and secure code and ensure constant quality of code releases.
 
-  ITIL
-  SSCP or CISSP
-  HPE NonStop: CSE or MSE
+- You will drive continuous product improvement and integration of new product features.
+
+- You will work closely with the Product and Tech Lead to ensure the product features are developed with business expansion and internationalisation objectives in mind.
+
+Requirements
+
+- Proven experience as a Full Stack Developer or similar role.
+
+- Minimum 3-5 years of relevant experience
+
+- Deep experience with JavaScript, HTML/CSS, Python, Go language and frameworks, and frontend technologies such as Node.js, React
+
+- Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+
+- Experience working with Agile, Lean and Continuous Delivery approaches
+
+- Knowledge in managing code deployment processes with a CI/CD pipeline
+
+- Experience building cloud native scalable software architectures
+
+- Building software in a security-conscious way, especially keeping in mind things like the OWASP top 10 vulnerabilities 
+
+- Experience in developing mobile responsive sites or PWA
+
+- Able to communicate effectively in written and verbal English
+
+- Strong problem solving and communication skills
+
+MUST be based in Singapore and have residency or PR

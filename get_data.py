@@ -32,6 +32,7 @@ for i, response in enumerate(responses):
 
         html_tag_regex = re.compile(r'<.*?>')
         job_desc = re.sub(html_tag_regex, '', job_desc)
+        job_desc = job_desc.replace('&nbsp;', ' ')
 
         with open(f'./job_descs/jd{str(i)}', 'w') as f:
             f.write(job_desc)

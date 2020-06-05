@@ -1,18 +1,44 @@
-Job requirement
+Key Responsibilities:
 
-  At least 9 months / 1 year of experience in a service desk environment
-  Willing to work on staggered shifts and on Saturdays (around 2 Saturdays/mth &amp; rotating afternoon shifts based on schedule)
-  Relevant technical IT expertise and skills in latest Windows, Linux &amp; MAC OS;
-  Possess good communication (written and oral) skills in English language.
-  Good telephony skills.
-  Good problem solving and interpersonal skills, self-awareness, self-control, and motivated in customer handling.
-  Demonstrate initiative and tactfulness and willingness to serve
-  Able to apply knowledge with other people, especially in a crisis situation, work in team environment.
-  Able to express oneself clearly
+  Installation, configuration and operations support of Windows Server components of a complex IPTV/OTT Solution.
+  Creating   detailed MOP (Method of Procedure) documents for planned changes in  customer platform, reviewing and validating MOP internally and with customer to get customer approval.
+  Execution MOPs on customer platform during designated maintenance windows (including      nighttime if required).
+  Troubleshoot, diagnose, and suggest/perform corrective or preventative maintenance      actions on issues reported by customers. Provide in depth investigation of  critical escalated issues.
+  Use and apply Integration and Support processes, policies &amp; tools documentation.
+  Maintain high level of customer satisfaction by providing services fully compliant with the SLA.
+  Create and maintain customer relationship on a day-to-day basis
+  Engage  additional support level within a predefined time frame and collaborate with them, as needed, in order to resolve the issues (internal and external escalations).
+  Ensure every customer reported issue is properly documented for tracking purposes      and learning opportunities.
+  Ensure time tracking accuracy for cost charging purposes.
+  Understand the service metrics, thresholds, and key performance indicators used to govern the ticket resolution process.
+  Use the knowledge management tool by searching/creating/updating articles.      
+  Proactively share knowledge.
 
-Job scope
+Experience Required:
+4 to 8 years of progressive experience as Windows Server integration or support engineer.
 
-  Provide 1st Level Technical Support to users over phone on technical issue or via remote assistance tool and emails
-  Escalation, tracking and resolution of all incident/service requests/ problems in a professional and timely Manner
-  May be required to cover onsite support as and when necessary.
-  Any other administrations where required.
+Technical Skills:
+
+  ASP,  troubleshooting
+  Microsoft  Windows Server 2008, 2012 R2, Active Directory
+  Windows  NLB and Redundancy Clustering
+  Microsoft  SQL Server 2014
+  Microsoft  SCOM &amp; Microsoft SCCM
+  HP DL and BL Server
+  HP SAN Storage (good to have)
+  Windows networking
+  Microsoft Hyper-V and SCVMM (good to have)
+  Scripting or coding basics (good to have)
+  Basic knowledge of HTTP REST architecture
+  Basic JSON
+  AS2/EDI experience
+  Experience with Visual Studio and any light coding adapting to new technologies and adapters (ie.Active Directory Adapter, SAP Adapter, Azure Logic Apps)
+  MediaKind Mediaroom Product knowledge (optional)
+
+Detailed and Additional Skills and experience:
+
+  Experience with server hardware, preferably both blades and rack mounted servers. Preference to HP DL* and BL* series, MSA, 3PAR.
+  Experience      in Citrix, Microsoft Windows Server, Microsoft SQL Server, SCCM, SCOM,Windows networking.
+  Understanding of High availability technologies: network redundancy, server clustering,      RAID
+  Know-how on scripting technologies or coding experience is an advantage. Powershell      is preferred.
+  Know-how on virtualization technologies, preferably Hyper-V.

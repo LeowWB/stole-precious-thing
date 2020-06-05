@@ -1,84 +1,20 @@
-ABAP –BW-HANA Consultant
-Skillset/Tools
-BW Modelling:
-a) Eclipse/HANA Studio (BW window perspective)
-b) RSA1(BW)
-c) RSA2(ECC)
-d) RSO2(ECC)
-e) RSA3(ECC)
-Day to day application
-1) ETL Development
-2) investigation and defect fixing
-3) Analyze an existing ETL flow to understand the process it is following
-Required or optional
-Required as this is the main task to do
-Upskilling requirements
-Hands-on creation and &nbsp;&nbsp;investigation for the following object types:
-TRFN (Transformations)
-DTP (Data Transfer Process)
-ADSO (Advanced DSO)
-HCPR (Composite Providers)
-DSRS (DataSources)
-PC (Process Chains)
-HANA Calculation View Modelling/Scripting
-a) Eclipse/HANA Studio(HANA window perspective)
-Day to day application
-1) Alternative way of doing ETL development
-2) Investigate and fix existing HANA Models
-3) Analyze an existing ETL flow to understand the process it is following
-Required or optional
-Optional/nice to have if there is at least one person in the team who have this skill, since majority of the existing ETL in the system does not use HANA Models in their Composite Providers, and for those that do, the HANA View involved are mostly easy and straightforward, and only a small portion do have really complex models, which can still be learned and reverse-engineered if necessary.
-Absence of this skill can be a show stopper in some existing object’s troubleshooting efforts
-Upskilling requirements
-Hands-on creation and investigation for the &nbsp;&nbsp;following object type:
-HANA Calculation View(Graphical and SQL &nbsp;&nbsp;Script-based)
-ABAP Programming
-a) RSA1(BW)
-b) SE38(ECC)
-c) SE37(ECC)
-Day to day application
-1) Implement more complex ETL logic that cannot be handled by BW mapping options, as well as ABAP-based DataSource
-2) Investigate and debug existing ABAP routines/logic
-Required or optional
-Optional/nice to have as long &nbsp;&nbsp;as there is at least one person in the team who have this skill, since &nbsp;&nbsp;although ABAP is found in almost all ETL objects, most area self-documenting &nbsp;&nbsp;and easy to follow and only a few are really complex that would really &nbsp;&nbsp;require an ABAP SME.
-Absence of this in the team can &nbsp;&nbsp;be a show stopper, and absence of any familiarity with ABAP for an individual &nbsp;&nbsp;will be very self-limiting
-Upskilling requirements
-Hands-on creation and &nbsp;&nbsp;investigation on the following object types:
-Transformation Routines(Start, &nbsp;&nbsp;End and Field)
-ABAP-based DataSources
-BEx Query design
-a) BEx Query Designer
-b) RSRT(BW)
-Day to day application
-1) Troubleshooting an existing BEx query for a Report issue before even investigating the underlying BW model
-Required or optional
-Optional/nice to have, as this is primarily a BI/BO skill requirement and BI/BO consultants develop this area. This only helps the project in general if the BW consultant has this skill to accelerate the troubleshooting process
-Upskilling requirements
-Investigation on existing BEx queries using real issues(production or UAT incidents/defects)
-SQL scripting
-a) DB02(any SAP system)
-Day to day application
-1) Used to quickly analyse data sets in any system
-2) Temporarily patch data in Dev or QA systems for testing purposes in case there is no sufficient test data that matches the scenario
-Required or optional
-Optional/nice to have. Having this will help accelerate investigation of issues as aggregations, ETL rules can be replicated directly in the SQL editor itself without the need to download any files to do data analysis
-Upskilling requirements
-SQL utilization when investigating/troubleshooting real issues(Production and/or UAT incidents/defects)
-Excel
-a) Microsoft Excel Formula(VLOOKUP, CONCATENATE, SUM, SUMIF), Pivot Tables
-Day to day application
-1) Used to analyse data sets, troubleshoot data errors, aggregate, find patterns, data crunching in general
-Required or optional
-Required and an easier alternative to SQL-based data analysis. Analytics consultants cannot really function well without some basic knowledge of Excel, and good knowledge of Excel formula, pivot tables and optionally Macros greatly accelerates data analysis
-Upskilling requirements
-Excel utilization when investigating/troubleshooting real issues(Production and/or UAT incidents/defects)
-Version Control(CTS)
-Day to day application
-1) Used to troubleshoot errors and/or variances due to version inconsistency, which can occur more often the larger the team gets that may have overlapping changes
-2) Used to prepare the right Transport number sequence when deploying to subsequent systems, especially critical when there is a great number of Transports
-Required or optional
-Optional/nice to have, as this is primarily a Basis area of concern, but given that MSIG Basis is not dedicated specifically to BW or any Application level, they will be only of help in simple day to day scenarios, but more complex troubleshooting and preparation would require in-depth familiarization of a particular Application such as BW objects. The same can be said for any other objects for that matter, such as HANA artifacts, and ECC objects
-Upskilling requirements
-Familiarization as to how the following works, using both in-system exploration and google research:
-Transactions: STMS, SE01, SE09, SE03, SE11
-Tables: V_E071, E070, E071
+The Smart Nation and Digital Government Office (SNDGO), under the Prime Minister’s Office (PMO) plans and prioritizes key Smart Nation and digital government projects, raises the standards of Government ICT and services, builds long-term capabilities for the public sector, and promotes adoption and participation in digital and smart innovations. It takes a whole-of-nation effort, and we will actively engage the public, the industry and fellow agencies as we build a Smart Nation together.
+Human Capital and Development Directorate plays a role in supporting SNDGO in delivering on the Smart Nation outcomes and the Government ICT&amp;SS sector through:
+
+  HR Policy: Developing an attractive career proposition for a common scheme (Digital Technologist Scheme) for the ICT&amp;SS sector through bold and innovative HR strategies and policies;
+  Talent &amp; Leadership Management (TLM): Ensuring a strong leadership bench strength for the ICT&amp;SS sector through effective and collective talent management and succession planning; and
+  Human Capital: Recruiting developing and retaining high quality SNDGO staff through agile and leading HR practices.
+
+Reporting to the Deputy Director (Human Capital), you will assist to:
+
+  Design dashboards to communicate key HR indicators to management for performance tracking. The role will allow the incumbent to understand the breadth of HR processes, as well as develop competencies in identifying critical HR performance indicators.
+  Develop communication strategy and material to engage SNDGO staff on HR-related matters. This entails developing a calendar of events to detail when communication materials are to be sent out; designing communication material (e.g. EDMs, posters) and liaising with vendors for production; and eveloping initiatives (e.g. competitions, rewards) to encourage desired behaviours.
+
+We are in search of motivated individuals who share the following skillsets and traits:
+
+  Strong communication and interpersonal skills to engage a wide spectrum of stakeholders. Strong interest in human psychology and how it can shape behaviour. Keen eye for aesthetics and skills in photoshop or any photo-editing software.
+  Appreciate and possesses the ability to tell a story with numbers using charts and visuals. Skills in tableau or any dashboarding software.
+  Takes pride in going the extra mile to produce work of high standards
+  Excellent interpersonal, writing and communication skills.
+
+Only shortlisted applicants will be notified within 2 weeks after closing date.

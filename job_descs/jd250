@@ -1,21 +1,55 @@
+Position Description
+KCP Regional External Contract Manufacturing Supply Chain Leader, APAC
 
-  Team &nbsp;&nbsp;leader who manages communication lines with stakeholders and within the &nbsp;&nbsp;engineering team during planning and implementation
-  Work closely with business stakeholders, and convert business requirements &nbsp;&nbsp;into the application design and delivery.
-  Maintain good code quality and a healthy system architecture
-  Responsible for E2E application delivery - Design , Develop &amp; Deliver &nbsp;&nbsp;to Production.
-  Improve and maintain team culture in &nbsp;&nbsp;software development methodology
-  Payments &nbsp;&nbsp;domain experience, with strong understanding of various payment formats- &nbsp;&nbsp;ISO20022 , ISO8583, MT*,etc.
-  Experience in designing &amp; developing large distributed systems and &nbsp;&nbsp;concepts such as caching, sharding, consistent hashing, interprocess &nbsp;&nbsp;communication and brokering
-  Strong commercial experience in developing software and demonstrable &nbsp;&nbsp;experience in large scale system design.
-  Experience developing on Unix/Linux, web technologies and internet protocols &nbsp;&nbsp;(SOAP, WS-*, REST, XML, HTTP, TCP/IP)
-  Experience with Continuous Integration and Automated unit testing &nbsp;&nbsp;frameworks
-  Experience with Spring boot, Hibernate
+Position Summary
+The role is responsible for driving regional end to end supply chain optimization and the effective management of regionally based ECM suppliers, in support of regional and global business needs.
+This position is accountable for the delivery of regional supply chain performance objectives: service,   agility, total delivered cost, working capital, growth and innovation; and ensuring that suppliers meet expectations in compliance (social, regulatory and quality), cost savings, supplier OTIF and capacity.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Java / &nbsp;&nbsp;J2EE
- &nbsp;&nbsp;&nbsp;Database: Oracle. 
- &nbsp;&nbsp;&nbsp;InMemory database : Hazelcast
- &nbsp;&nbsp;&nbsp;Source Code Management: Git, Sub
- &nbsp;&nbsp;&nbsp;Build and automation tools: Maven, Spring; Ansible
- &nbsp;&nbsp;&nbsp;App-Hosting: openshift, Docker, Kubernetes
- &nbsp;&nbsp;&nbsp;Message Processing: MQ-Series (IBM), Kafka. 
- &nbsp;&nbsp;&nbsp;API: Swagger / Swaggerhub (internal &nbsp;&nbsp;representation GLUE)
+Customers and collaborative partners
+Regional and global end users of KCP products, commercial teams (product management, innovation/renovation teams), cross-functional and global supply chain teams (quality, ECM, regulatory, procurement,planning and logistics).
+
+Scope
+· All ECM Product Categories, focus on Scientific PPE (apparel, masks, gloves) and skincare
+· Annual Spend for suppliers in region: ~$200MM
+· Regulatory environment: UL, CE, FDA
+
+Accountabilities
+
+  Ensure compliance: collaborate with respective functions to achieve objectives in regulatory, social, quality, and financial compliance
+  Deliver top tier customer service: achieve and sustain customer Tier 1 Customer OTIF &gt; 85%
+  Ensure supply: proactively assess risks, capacity and capability within the Global supply network to ensure sufficiency supply vs. the regional and global business plans
+  Improve &amp; control costs: achieve 3-5% annual cost improvement across the end-to-end supply chain
+  Improve &amp; control working &amp; physical capital: sustain accurate accounting of KC-owned assets at 3rd parties; optimize working capital through supplier reliability initiatives
+  Adhere to K-C External Manufacturing Playbook: build regional capability and ensure the utilization of KCP External Manufacturing Practices
+
+Responsibilities
+· Develop a comprehensive sourcing &amp; collaboration framework for Scientific PPE and skincare suppliers within the APAC region in alignment with the global team
+· Provide leadership and coordination for complex manufacturing/supply chain challenges, commercialization and innovation activities and strategic projects
+· Collaborate with the Social Responsibility, Quality and Regulatory teams to develop and execute annual supplier audit plans and drive timely &amp; effective corrective actions with suppliers
+· Lead the regional cross-functional process to identify and execute value delivery initiatives
+· Drive focused improvements in end to end supply performance leveraging lean concepts
+· Build capability and ensure adherence to the K-C External Manufacturing playbook
+· Engage strategic suppliers to identify and implement manufacturing and cost improvement programs
+· Ensure effective management system to monitor and deliver suppliers performance expectations
+· Collaborate with R&amp;E to identify Design for Value and Design for Reliability opportunities within products, packages, and processes
+· Lead supplier risk management activities and the execution of category sourcing strategies jointly with the Global Procurement team
+· Collaborate with Global Supply Planning to proactively identify capacity requirements over the strategic horizon and develop plans that deliver cost, capacity, working capital and service objectives
+· Build regional functional and technical capabilities to preserve the know-how for the ECM categories
+
+Qualifications
+· Bachelor's degree in Engineering, Operations Management, Supply Chain or related discipline
+· 10+ years combined experience within supply chain operational functions, including expert knowledge of and experience in strategic sourcing of finished goods and executing complex supply projects (driving and executing changes in supply base, executing RFPs etc.)
+· At least 5 years of experience in leading diverse teams
+· Deep expertise in the Scientific PPE supply base across Asia
+· Effective and influential communication (verbal and written) in the English language
+· Willingness to flex work hours as necessary to engage with global teams and supply partners
+· Consistent track record of delivering results while creating a constructive work environment
+· Strong interpersonal skills, able to motivate a team, influence members and leaders of other teams, and comfortable communicating upwards to a senior management level
+· Ability and experience driving collaboration across business and supply chain functions
+· Willingness to challenge the status quo and facilitate different perspectives to drive solution
+· Capable of traveling regionally up to 40%
+
+Differentiating Qualifications
+· Direct experience in third party sourcing of Scientific apparels, gloves or masks
+· Experience managing supply chains or operations in regulated industries
+· Fluency in Mandarin Chinese

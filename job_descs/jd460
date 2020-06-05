@@ -1,11 +1,39 @@
-Job Role (Responsibilities &amp; Duties)
--Providing customer service and handling of patients enquiries
--Assisting the doctor during treatments / consultations
--Scheduling of appointments and arrangements for the patients
--Data entry and handling of paper work
--Packing of medicines and other adhoc duties assigned
+Join Trident and be part of the new way businesses will trade across the globe.
 
-Candidate Requirements:
--Good interpersonal and communication skills
--Customer service oriented
--Able to start work immediately or short notice period.
+Trident is a curated B2B marketplace and trade platform of verifiable, international traders. Designed to empower buyers and suppliers to grow their businesses with confidence, Trident connects trusted trade partners and supports them through their end-to-end trade journey.
+
+Our goal is to enable buyers to efficiently diversify their supply chains by matching them with a set of quality, international suppliers. We also help suppliers to expand their customer base by connecting them with reputable buyers.
+
+The platform leverages decentralised technology to enable users to have control and ownership over their data.
+
+Seeded by Temasek, a global investment company headquartered in Singapore, Trident is based in Singapore with a hub in China.
+
+This role at Trident provides a unique opportunity for a high performing individual to have broad impact. You will work closely with a talented and diverse group of engineers, product managers and industry experts.
+
+Key Responsibilities
+
+  Create REST/GraphQL based web services and APIs for consumption by mobile and web for distributed B2B platform
+  Work with engineering team to explore and create new design / architectures geared towards scale and performance
+  Code, test and operate node.js based services to maintain our high development standards
+  Contribute to a future-ready, high quality, and performance code base
+  Engage in service capacity and demand planning, software performance analysis, tuning and optimization
+  Work with cross-functional product and engineering teams to define and prototype feature specifications
+  Work closely with infrastructure team in building and scaling back-end services as well as performing root cause analysis investigations
+  Design, build, analyze and fix large-scale systems
+
+Ideal Candidate Requirements
+
+  4+ years of experience in backend development, including at least 1 year as a Node.JS Developer
+  Understanding of CI/CD and experience with one of the major cloud providers (preferably AWS), as well as orchestration and cluster management experience; Infrastructure-as-Code mentality
+  Strong grasp of Docker and Kubernetes fundamentals
+  Expert in Node.js, preferably experience in TypeScript extensions
+  Must be familiar with NoSQL databases such as MongoDB or CouchDB, Web services, SOA patterns
+  Good working knowledge on design patterns and
+  Hands on experience with REST APIs or GraphQL
+  Must have good unit testing experience
+  Experience working on AWS or other cloud stacks and Docker
+  Experience building / consuming OpenAPI and GraphQL specifications
+  Experience of building microservices systems and testing them
+  Experience of building systems with high data protection requirements, anonymous data and data encryption
+  International work experience will be a plus
+  Experience working in decentralised global teams across different time zones will be looked upon favourably

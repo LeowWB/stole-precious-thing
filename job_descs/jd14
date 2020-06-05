@@ -1,9 +1,0 @@
-Primary task is to assist customerin managing the Vulnerability Management Lifecycle for ICT systems.
-• Maintain and document existing/new SOP, processes and procedure relating to Security Testing.
-• Using Tenable application to generate and collate vulnerability reports for system owners to review and follow up for remediation
-• Responsible for testing and code-scanning for software, patches and systems application security testing prior to deployment
-• Engage stakeholders to help drive remediation of vulnerabilities on applications or infrastructure on existing systems or before project go live.
-• Maintain scan policies, update plugins on a weekly basis, scan scheduling and staggering among systems, and check scan status.
-• Configure scan reports, validate and assess scan results for dissemination to project teams for follow-up.
-• Track remediation status and vulnerability review for false positive/risk acceptance in the Security scanning tools.
-• Drive on-boarding/off-boarding of new/existing systems for VA scanning

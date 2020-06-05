@@ -1,1 +1,20 @@
-Supervising day-to-day operations of the administrative department and staff members.Hiring, training, and evaluating employees, taking corrective action when necessary.Developing, reviewing, and improving administrative systems, policies, and procedures.Ensuring office is stocked with necessary supplies and all equipment is working and properly maintained.Working with accounting and management team to set budgets, monitor spending,and processing payroll and other expenses.Planning, scheduling, and promoting office events, including meetings, conferences, interviews, orientations, and training sessions.Collecting, organizing, and storing information using computers and filing systems.Overseeing special projects and tracking progress towards company goals.Building new and expanding existing skills by engaging in educational opportunities.
+For this position - SRE (Site   Reliability Engineer), your key responsibilities are to ensure the efficient   and sustainable operation of the platform 24/7, and to build and maintain   large-scale, highly available, high-performance distributed systems based on   system availability and performance. It is formed by combining software   engineering and technical operation.
+Key Responsibilities
+
+  Deep dive        into development lines, learning and understanding the mechanism of        every application component, and promoting product scalability,        stability and performance.
+  Manage and        maintain client’s product applications and services.
+  Support        and influence improvement in client’s product application to enhance the        stability and availability of the systems
+  Solve key        problems that potentially may take with the production systems and        create solutions to prevent incidents occurring again
+  Analyse        patterns of production incidents and set-up appropriate        alerting/monitoring mechanisms in the system to catch the issues before hand.
+  To create        a release template to ensure that architecture and testing efforts        performed during development of service are sufficient to support        availability and performance SLAs.
+  To test        the playbook and scripts in the lower environment to ensure the accuracy        and completeness.
+  To provide        and test the runbooks and healing/corrective automation scripts for        restoration of runtime tools-based services.
+  To work        with development team to do full integration of services with the        application monitoring system
+  Improve        application stability &amp; operational efficiency by developing scripts        to automate tasks
+  Experienced        working with either C++, Go, Java, Python for scaling systems and        services
+  Good        working record with either GCP or AWS environment
+  Previously        had responsibilities of SRE from previous projects e.g designing,        delivering and managing large scale platforms
+  Has good        knowledge and working experience in application monitoring systems        (which include AppDynamics)
+  Hands-on        knowledge with Linux operating system (Ubuntu, CentOS, etc.)
+  Knowledge        of Computer Network (TCP/IP, DNS, etc.)
+  Experienced        in Incident Management process and ability to resolve Level 1 issue        within agreed organization SLO.

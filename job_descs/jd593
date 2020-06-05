@@ -1,22 +1,10 @@
-Ref: 5103
+We are seeking a highly motivated research fellow with a strong algebraic background, who is interested to explore new research directions in deep learning, and more generally in Artificial Intelligence. The successful candidate can expect to conduct research on a completely new topic that combines commutative algebra with AI, and will work closely with other team members.
+The goal of this project is to develop an algebraic framework for understanding the architecture hyperparameters of deep neural networks, especially in relation to unsupervised feature learning. This framework shall be based on methods from both commutative algebra and computational algebra. We shall also build upon this algebraic framework and develop algorithms for generating optimal neural network architectures that are able to perform optimized feature learning on unlabeled data sets.
 
-  Communicate with EPI design group for EPI structure detail and EPI development plan
-  Develop and create growth recipe and EPI process flow for both R&amp;D and production EPIs
-  Implement risk assessment for each individual process steps for process fabrication.
-  Working with VCSEL team to qualify new EPI product
-  Improve on quality of product and reproducibility of the product for mass production.
-  Build strong wafer fabrication environment that comply with quality standards ISO/TS16949.
-  Define process yield target and Implement continuous improvement approach for existing product
-  Manage EPI process development, implementation, and documentation
+  Required: PhD degree in mathematics, with experience in commutative algebra, computational algebra, homological algebra, or a related algebraic area.
+  The candidate is expected to have at least some programming experience, and must be open to learning new things (e.g. in computer science).
+  An ideal candidate is excited by the possibility of applying algebraic methods (e.g. in computational commutative algebra or homological algebra) to problems in Artificial Intelligence, specifically in machine learning and machine reasoning.
+  Candidates with strong algebraic backgrounds are prioritized.
 
-
-Job Requirements
-
-  Strong background on compound semiconductor physics, minimum Master’s degree on Physical or engineering study. A PhD degree is preferred.
-  Minimum 3 years’ hands-on experience with MOCVD EPI growth. VCSEL EPI growth is an advantage, Aixtron tool experience is an advantage.
-  Knowledge and hands-on on EPI metrology tools like RPM, XRD, Surface scanner, ECV, EL, Hall
-  Knowledge on material analysis tools like SEM, TEM, SIMS
-  Strong knowledge on FMEA, control plan, 8D, root cause analysis, SPC, DOE.
-  Good quantitative, analytical and communication skills.
-  Familiar with semiconductor analysis tools (JMP, Minitab, Microsoft Office- excel).
-  Strong bias for action, with the ability to work independently
+Interested candidates should submit a current CV and copies of academic transcripts (from both undergraduate and post-graduate studies), as well as 
+provide the contact details of one referee willing to provide a recommendation letter for the candidate. 

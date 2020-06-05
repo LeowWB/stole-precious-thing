@@ -1,27 +1,47 @@
-Responsible for the preparation of piping material specifications/requisitions, and piping vendor quotation evaluations/verifications. He/She will also be responsible for reviewing piping engineering progress against approved schedule, for evaluating changes and taking corrective action when required, for providing technical guidance, and for organizing, executing and coordinating these responsibilities to ensure timely completion and meets project schedule and budget.
-Duties &amp; Responsibilities:
+Looking for a professional and creative Software engineer to be part of our OSS team to support systems within the company's SDN based Network.  The candidate should have excellent organization and problem-solving skills. If you also have hands-on experience in software development and agile methodologies in a Dev/Ops environment with telecommunication background.
 
-  To study ITB, project and design basis such as scope of work, overall project schedule, basic design data, client specification and regulation.
-  To prepare line index, Material summary (BM/BQ).
-  To prepare piping material requirement summary, piping class summary table, basic piping material specification and execution procedure for piping material handling.
-  To conduct mechanical calculations e.g. Pipe wall thickness and branch reinforcement strength calculation etc.
-  To check and review piping material specification (line classes), specifications/requisitions for bulk and special piping components, vendor quotation evaluations and verifications of vendor documents and piping material take-off prepared by engineers for compliance to project standards or specifications, applicable codes, contract requirements, quality standards and accepted engineering and construction practices.
-  To check and review the SPRD/PDS database based on the relevant piping material specification and datasheets.
-  To carry out engineering support work during the construction phase of the project.
-  To perform other tasks that may be assigned by the Department Manager and Lead Piping Engineer.
+The ideal candidate for this role will have experience in software development, system administration, deployment automation, quality assurance, and monitoring and maintaining large scale, mission critical services with communication service provider with various underlying dependencies.
 
-=Requirements:
+Responsibilities:
 
-  Bachelor’s degree in Mechanical Engineering.
-  Minimum five years in the field of piping engineering involving piping material specification and requisition preparation or detailed design
-  In Oil &amp; Gas, FPSO
+  To manage the Java applications landscape within the company domain
+  Interact with other teams in order assess new opportunities and participate in requirements gathering
+  Solution analyze and effort estimate for the requests
+  Low level design for the applications
+  Development for the requests and bug fixing on the existing applications
+  Provide work instructions and improvements of the processes
+  Management and implementation of new automatic scripts and applications
+  Verify and implement configuration changes at the request of the customer or when is needed for performance reasons
+  Coordinate and work together with other teams such as: 2nd line of support, 1st level support, Testing
+  Installation, tuning and troubleshooting of complex software applications
 
-Skill Requirements:
 
-  Ability to use computer equipment and peripherals to carry out routine computing tasks.
-  Basic Knowledge of AutoCAD/CAD Pipe and Micro station 2D CAD.
-  Basic knowledge of 3D Modeling through Naviswork, Smart Plant Review or related software.
-  Ability to apply mathematical concepts in piping calculations such as exponents, logarithms, trigonometric functions, quadratic equations and other applicable formulas.
-  Ability to respond to common inquiries or complaints from clients and ability to write effective minutes of meeting and other related business communications.
-  Strong leadership qualities and analytical and reasoning abilities.
-  Ability to read, analyze, and interpret common technical information, contracts reports and instructions.
+Requirements:
+
+  BSc/BA in Computer Science or a related degree preferred
+  3 - 4 years of experience in development, production and testing (SIT, Pre-Production) according to the knowledge of the methodologies and processes related to management of production systems
+  Work experience gained in companies and projects in IT, telecommunications, industrial, with an autonomous organization of IT operations
+  Previous experience in IT environment in a relevant field such as applications administration and development
+  Experience in systems integration, including management of issues of interconnection, communication
+  Previous experience in the use of procedures for Configuration Management
+  Experience designing and / or testing of complex software applications
+  Strong level of OS knowledge: UNIX (Sun Solaris, HP-UX), Linux, Windows
+  Experience with scripting languages: Ksh, Bash, Perl
+  Able to understand N-tier and 3-tier architectures
+  Good knowledge of XML/ XSL/ XSLT
+  Experienced with JMS, JNDI, Web Services
+  Good level of knowledge of TCP/IP suite
+  High level of expertise of Web Servers, Application Servers and Middleware applications such as: Apache, Tomcat, Oracle WEB Logic, JBoss
+  Good experience with Databases: Oracle, SQL, MySql
+  Good knowledge of Java programming languages
+  Familiar with well-known services: ssh, ftp, NFS, Samba
+  Familiar with java-web frameworks such as : Struts, JSF, Primefaces, Vaadin, IceFaces
+  Familiar with Spring Core, Hibernate, LDAP interaction
+  Familiar with JavaScript, ExtJS or other JS Framework
+  Familiar with  Devops CI/CD tools such as Gitlab, RunDeck, Jenkins etc.
+  Familiar with Eclipse / NetBeans / IntelliJIdea / Visual Studio
+  Familiar and self-motivated to learn latest technologies and trends.
+  Must be strongly self-motivated and has an entrepreneurial mindset.
+  Chinese speaking preferred as working closely with Chinese consultants/partners
+
+We regret that only Singaporean candidates will be considered for the role, due to the involvement in government projects.
