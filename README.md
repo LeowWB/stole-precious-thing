@@ -14,6 +14,9 @@ or a service. Don't use it as an application or a service.
 * python 3.8
 * spacy
 * requests
+* ibm-watson
+
+spacy and requests are available on conda, but ibm-watson needs pip. Suggest you use venv.
 
 Also this spacy model, which can be installed by:
 `python -m spacy download en_core_web_lg`
