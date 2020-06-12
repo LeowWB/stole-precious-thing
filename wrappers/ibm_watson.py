@@ -18,6 +18,3 @@ def translate(text, source, dest):
         model_id=f'{source}-{dest}').get_result()
 
     return translation['translations'][0]['translation']
-    
-import pdb
-pdb.set_trace()
