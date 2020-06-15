@@ -10,6 +10,10 @@ headers = {
 }
 
 def translate(text, source, dest):
+    if source == 'zh':
+        source = 'zh-CN'
+    if dest == 'zh':
+        dest = 'zh-CN'
     payload = f"from={source}&text={urllib.parse.quote(text)}&to={dest}"
     response = requests.request("POST", url, data=payload, headers=headers)
     return response.json()['translated_text'][dest]
